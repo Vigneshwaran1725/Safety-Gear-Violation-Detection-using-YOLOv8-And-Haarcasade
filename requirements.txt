@@ -1,0 +1,10 @@
+opencv-python 
+opencv-contrib-python 
+cvzone
+torch
+torchvision
+numpy 
+ultralytics 
+twilio 
+smtplib 
+mimetypes
